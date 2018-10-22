@@ -11,9 +11,9 @@ Ausserdem haben wir uns mit verschiedenen Hauptplatinen für unser Projekt besch
 ### 28.08.18 - Unterricht
 Heute haben wir uns dann mit der näheren Funktionsweise des Arduino Mega beschäftigt. Vor allem vor dem Hintergrund der anschließend verwendeten Bauteile. Dabei haben wir zudem versucht, eine mögliche Umsetzung der Visualisierung aller Frequenzen zu erarbeiten. Wir haben uns dann für LEDs in Verbindung mit Transistoren entschieden, was uns dazu brachte, uns näher mit den verschiedenen Arten von Transistoren, wie dem NPN, dem PNP und dem Mosfet und deren unterschiedlichen Dotierungen sowie den jeweiligen Anwendungsbereichen zu beschäftigen.
 ### 10.09.18 - Unterricht
-Nun haben wir nähere Planung begonnen. Unser Grundkonzept blieb allerdings unverändert. Wir begannen damit ein Grundkonzept für einen Schaltplan auf draw.io zu zeichnen. <br>
-<p align="center"><img src="https://user-images.githubusercontent.com/42578917/47315087-d769fb00-d643-11e8-9edb-c32462ccdcd3.png" width="400px"></p>
+Nun haben wir nähere Planung begonnen. Unser Grundkonzept blieb allerdings unverändert. Wir begannen damit ein Grundkonzept für einen Schaltplan auf draw.io zu zeichnen. 
 <br>
+<p align="center"><img src="https://user-images.githubusercontent.com/42578917/47315087-d769fb00-d643-11e8-9edb-c32462ccdcd3.png" width="400px"></p>
 
 ### 11.09.18 - Unterricht
 Heute haben wir unser Konzept für die Hardware beendet und begonnen, uns mit der endgültigen Programmierumgebung, der Arduino IDE auseinanderzusetzen und haben uns damit beschäftigt, wie man dort einzelne Pins ansteuert, sowie Inputs an analogen Pins in der IDE ausliest 
