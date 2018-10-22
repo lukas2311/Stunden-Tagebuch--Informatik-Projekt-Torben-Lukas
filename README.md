@@ -9,13 +9,11 @@ Jetzt begann die Ideenfindung und Recherche zur Umsetzbarkeit des Projektes. Nac
 <br><br>
 Ausserdem haben wir uns mit verschiedenen Hauptplatinen für unser Projekt beschäftigt. Nach Recherche und der Auseinandersetzung mit dem Raspberry Pi, dem Arduino Uno, dem Arduino Mega, dem Texas Instruments MSP430 Launchpad, aber auch unbekannteren Alternativen wie dem Teensy und dem BeagleBone haben wir uns schlussendlich für den Arduino Mega entschieden, einerseits aufgrund der großen Anzahl an Pins, und andererseits aufgrund der in der IDE verwendeten Sprache C++, welche für uns eine deutlich stimmigere Synthax aufwies, als z.B. Python. Zudem hat uns auch die große Community hinter Arduino und dem damit verbundenen Support überzeugt. 
 ### 28.08.18 - Unterricht
-Heute haben wir uns mit den Grundlagen von Physical Computing beschäftigt und uns einen Prototypen für einen Schaltplan gemacht. Zudem haben wir uns mit nötigen Bauteilen wie Transistoren, LEDs, aber besonders mit der Funktionalität von möglichen Mini-Computern für unser Projekt wie dem Arduino oder dem Raspberry Pi auseinandergesetzt.
-
 Heute haben wir uns dann mit der näheren Funktionsweise des Arduino Mega beschäftigt. Vor allem vor dem Hintergrund der anschließend verwendeten Bauteile. Dabei haben wir zudem versucht, eine mögliche Umsetzung der Visualisierung aller Frequenzen zu erarbeiten. Wir haben uns dann für LEDs in Verbindung mit Transistoren entschieden, was uns dazu brachte, uns näher mit den verschiedenen Arten von Transistoren, wie dem NPN, dem PNP und dem Mosfet und deren unterschiedlichen Dotierungen sowie den jeweiligen Anwendungsbereichen zu beschäftigen.
 ### 10.09.18 - Unterricht
-Nun haben wir nähere Planung begonnen. Unser Grundkonzept blieb allerdings unverändert.
+Nun haben wir nähere Planung begonnen. Unser Grundkonzept blieb allerdings unverändert. Wir begannen damit ein Grundkonzept für einen Schaltplan auf draw.io zu zeichnen. 
 ### 11.09.18 - Unterricht
-Heute haben wir unser Konzept für die Hardware beendet und begonnen, uns mit der endgültigen Programmierumgebung, der Arduino IDE auseinanderzusetzen und haben uns damit beschäftigt, wie man dort einzelne Pins ansteuert, sowie Inputs an analogen PIns in der IDE ausliest
+Heute haben wir unser Konzept für die Hardware beendet und begonnen, uns mit der endgültigen Programmierumgebung, der Arduino IDE auseinanderzusetzen und haben uns damit beschäftigt, wie man dort einzelne Pins ansteuert, sowie Inputs an analogen Pins in der IDE ausliest
 ### 17.09.18 - Unterricht
 Heute haben wir damit begonnen, die endgültigen Teile im Internet rauszusuchen und zu bestellen. Dazu gehörten der Arduino, der MSGEQ7 einige Widerstände, LEDs und Steckbretter mit Jumper-Kabeln
 ### 18.09.18 - Unterricht
