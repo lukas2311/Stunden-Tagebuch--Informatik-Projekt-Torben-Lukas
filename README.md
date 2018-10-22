@@ -13,7 +13,7 @@ Heute haben wir uns dann mit der n채heren Funktionsweise des Arduino Mega besch�
 ### 10.09.18 - Unterricht
 Nun haben wir n채here Planung begonnen. Unser Grundkonzept blieb allerdings unver채ndert. Wir begannen damit ein Grundkonzept f체r einen Schaltplan auf draw.io zu zeichnen. <br>
 <p align="center"><img src="https://user-images.githubusercontent.com/42578917/47315087-d769fb00-d643-11e8-9edb-c32462ccdcd3.png" width="400px"></p>
-<br> 
+<br><br>
 ### 11.09.18 - Unterricht
 Heute haben wir unser Konzept f체r die Hardware beendet und begonnen, uns mit der endg체ltigen Programmierumgebung, der Arduino IDE auseinanderzusetzen und haben uns damit besch채ftigt, wie man dort einzelne Pins ansteuert, sowie Inputs an analogen Pins in der IDE ausliest 
 ### 17.09.18 - Unterricht
