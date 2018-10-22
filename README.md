@@ -3,7 +3,7 @@
 ### 21.08.18 - Unterricht
 An diesem Tag bekamen wir von Herrn Buhl eine Einführung in das Fach Informatik bekommen und bekamen erklärt, wie wir uns in verschiedene Projekte auf Github einlesen und am besten einen eigenen Entwurf anfertigen können.
 <br><br>
-Zudem wurden uns einige Beispielprojekte, wie ein Quadrocopter, ein Arduino Snake-Spie oder ein Mobile-Game, programmiert mit Greenfoot, gezeigt.
+Zudem wurden uns einige Beispielprojekte, wie ein Quadrocopter, ein Arduino Snake-Spiel oder ein Mobile-Game, programmiert mit Greenfoot, gezeigt.
 ### 27.08.18 - Unterricht
 Jetzt begann die Ideenfindung und Recherche zur Umsetzbarkeit des Projektes. Nachdem wir uns auf ein Projekt geeinigt hatten, fingen wir mit der Recherche an: Zunächst benötigten wir einmal ein Verständnis davon, wie digitale Audio-Signale funktionieren und wie diese aufgebaut sind. Zudem haben wir uns ähnliche Projekte angeschaut, um einen weiteren Plan sowie weitere Ideen für unser Projekt zu finden.
 <br><br>
