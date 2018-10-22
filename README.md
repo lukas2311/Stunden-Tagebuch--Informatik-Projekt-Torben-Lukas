@@ -28,7 +28,7 @@ zuerst vorhandene Fehler zu entdecken und zu beheben.
 ### 22.10.18 - Unterricht
 Nun haben wir versucht, mit den gewonnenen Daten etwas anzufangen: Wir haben mehrere If-Schleifen geschrieben, welche dann später
 abhängig von den Werten aus dem Seriellen Monitor die einzelnen Transistoren, und damit die einzelnen LEDs schalten. Da der MSGEQ7 nur "Zahlen" als Werte für die stärke der einzelnen Frequenzen ausgibt, können wir an diese Werte auch eine Bedingung knüpfen. Nun haben wir anhand der Werte geschachtelte IF-Schleifen geschrieben, welche jeweils bis zu einem Bestimmten Wert durchlaufen.
-<br>
+<br><br>
 Desweiteren haben wir vor dem Hintergrund des Schaltplans des Arduino Mega eine Pinaufteilung für die verschiedenen LEDs erarbeitet. Dafür haben wir zunächst alle als digitale Ausgänge verfügbare Pins rausgesucht und auf in 7 Reihen unterteilt, für die verschiedenen Frequenzen. Dies haben wir getan, um für LEDs, welche die gleiche Frequenz anzeigen, auch nebeneinanderliegende Pins zu wählen, damit die Schaltung etwas übersichtlicher und nachvollziehbarer wird.
 ### 23.10.18 - Unterricht
 An diesem Tag haben wir mit dem endgültigen Code begonnen. Also haben wir zunächst in anbindung an die letzte Stunde eine Menge Variablen geschrieben, in die wir die in der letzten Stunde erarbeitete Pinaufteilung eingetragen haben. So hat jeder Transistor, also jede LED einen Pin auf dem Arduino bekommen. Um diese Wiederzuerkennen, haben wir ein Benennungssystem entwickelt. Zudem haben wir die IF-Schleifen um die jeweiligen zugehörigen Pins ergänzt und die jeweiligen Schaltungen hinzugefügt.
