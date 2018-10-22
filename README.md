@@ -1,7 +1,7 @@
 # Informatik-Projekt-Torben-Lukas
 
 ### 21.08.18 - Unterricht
-An diesem Tag bekamen wir von Herrn Buhl eine Einführung in das Fach Informatik bekommen und bekamen erklärt, wie wir uns in verschiedene Projekte auf Github einlesen und am besten einen eigenen Entwurf anfertigen können. 
+An diesem Tag bekamen wir von Herrn Buhl eine Einführung in das Fach Informatik bekommen und bekamen erklärt, wie wir uns in verschiedene Projekte auf Github einlesen und am besten einen eigenen Entwurf anfertigen können.<br>
 Zudem wurden uns einige Beispielprojekte, wie ein Quadrocopter, ein Arduino Snake-Spie oder ein Mobile-Game mit Greenfoot
 ### 27.08.18 - Unterricht
 Ideenfindung und Recherche zur Umsetzbarkeit des Projektes
