@@ -21,7 +21,7 @@ Nun haben wir nähere Planung begonnen. Unser Grundkonzept blieb allerdings unve
 ### 11.09.18 - Unterricht
 Heute haben wir unser Konzept für die Hardware beendet und begonnen, uns mit der endgültigen Programmierumgebung, der Arduino IDE auseinanderzusetzen und haben uns damit beschäftigt, wie man dort einzelne Pins ansteuert, sowie Inputs an analogen Pins in der IDE ausliest. Dabei haben wir den Schaltplan beendet: 
 
-
+<p align="center"><img src="https://user-images.githubusercontent.com/42578917/48625398-67833200-e9af-11e8-848c-5e2630a5e2c4.png" width="600px"></p>
 
 ### 17.09.18 - Unterricht
 Heute haben wir damit begonnen, die endgültigen Teile im Internet rauszusuchen und zu bestellen. Dazu gehörten der Arduino, der MSGEQ7 einige Widerstände, LEDs und Steckbretter mit Jumper-Kabeln.
