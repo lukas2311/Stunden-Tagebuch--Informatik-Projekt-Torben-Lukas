@@ -25,7 +25,8 @@ Heute haben wir unser Konzept für die Hardware beendet und begonnen, uns mit de
 Heute haben wir damit begonnen, die endgültigen Teile im Internet rauszusuchen und zu bestellen. Dazu gehörten der Arduino, der MSGEQ7 einige Widerstände, LEDs und Steckbretter mit Jumper-Kabeln.
 
 ### 18.09.18 - Unterricht
-Heute haben wir uns ausgiebiger mit der Verkabelung des MSGEQ7 beschäftigt, wie sie im Datenblatt angegeben ist und unser Weiteres vorgehen besprochen. Zudem haben wir noch weitere benötigte Teile wie 4 weitere Kondensatoren und IC-Fassungen für den MSGEQ7 bestellt.  
+Heute haben wir uns ausgiebiger mit der Verkabelung des MSGEQ7 beschäftigt, wie sie im Datenblatt angegeben ist und unser Weiteres vorgehen besprochen. Zudem haben wir noch weitere benötigte Teile wie 4 weitere Kondensatoren und IC-Fassungen für den MSGEQ7 bestellt. 
+
 Zudem haben wir, nachdem wir die Verkabelung verstanden haben, den Schaltplan beendet: 
 
 <p align="center"><img src="https://user-images.githubusercontent.com/42578917/48625398-67833200-e9af-11e8-848c-5e2630a5e2c4.png" width="400px"></p>
