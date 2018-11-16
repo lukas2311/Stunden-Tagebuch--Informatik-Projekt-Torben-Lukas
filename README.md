@@ -21,8 +21,11 @@ Nun haben wir nähere Planung begonnen. Unser Grundkonzept blieb allerdings unve
 ### 11.09.18 - Unterricht
 Heute haben wir unser Konzept für die Hardware beendet und begonnen, uns mit der endgültigen Programmierumgebung, der Arduino IDE auseinanderzusetzen und haben uns damit beschäftigt, wie man dort einzelne Pins ansteuert, sowie Inputs an analogen Pins in der IDE ausliest. 
 
+### 16.09.18 - Zuhause
+Jetzt haben wir recherchiert, was für verschiedene Produkte es gibt, für die Teile die wir brauchen. Auf Amazon und Conrad haben wir dann Teile entdeckt und uns über die Hintergründe der Funktionsweise dieser belesen.
+
 ### 17.09.18 - Unterricht
-Heute haben wir damit begonnen, die endgültigen Teile im Internet rauszusuchen und zu bestellen. Dazu gehörten der Arduino, der MSGEQ7 einige Widerstände, LEDs und Steckbretter mit Jumper-Kabeln.
+Heute haben wir damit begonnen, die endgültigen Teile im Internet rauszusuchen und zu bestellen. Dazu gehörten der Arduino, der MSGEQ7 einige Widerstände, LEDs und Steckbretter mit Jumper-Kabeln. Die Entscheidung dafür beruhte auf der Recherche vom Vortag. Gegen Ende der Stunde haben wir zudem unser weiteres Vorgehen besprochen: wann die Bauteile ankommen, wann wir uns wieder treffen, und wann wir welche
 
 ### 18.09.18 - Unterricht
 Heute haben wir uns ausgiebiger mit der Verkabelung des MSGEQ7 beschäftigt, wie sie im Datenblatt angegeben ist und unser Weiteres vorgehen besprochen. Zudem haben wir noch weitere benötigte Teile wie 4 weitere Kondensatoren und IC-Fassungen für den MSGEQ7 bestellt. 
@@ -47,10 +50,12 @@ Desweiteren haben wir vor dem Hintergrund des Schaltplans des Arduino Mega eine 
 ### 23.10.18 - Unterricht
 An diesem Tag haben wir mit dem endgültigen Code begonnen. Also haben wir zunächst in anbindung an die letzte Stunde eine Menge Variablen geschrieben, in die wir die in der letzten Stunde erarbeitete Pinaufteilung eingetragen haben. So hat jeder Transistor, also jede LED einen Pin auf dem Arduino bekommen. Um diese Wiederzuerkennen, haben wir ein Benennungssystem entwickelt. Zudem haben wir die IF-Schleifen um die jeweiligen zugehörigen Pins ergänzt und die jeweiligen Schaltungen hinzugefügt.
 
-Außerdem haben wir unsere Dokumentation weitergeführt. Wir haben sowohl Inhaltsverzeichnis als auch Materialliste, mit den jeweiligen Links ausgestattet, erstellt.
+Außerdem haben wir unsere Dokumentation weitergeführt. Sowohl den Hardware-, als auch den Softwareteil haben wir dabei weiter fortgeführt.
 
 ### 27.10.18 - Zuhause
 Nun haben wir mit der Aufteilung der LEDs und Transistoren befasst und damit begonnen diese auf die Platinen zu löten. Dabei haben wir sowohl Widerstände, Transistoren, LEDs und Kabel festgelötet und erste Tests an der fertigen Platine durchgeführt um zu prüfen, ob alle LEDs und Transistoren ordnungsgemäß funktionieren und zu schauen, ob auch alle Transistoren und LEDs richtig gepolt verlötet wurden.
+
+Nach einigen Korrekturen und zwei neu-eingelöteten LEDs haben die LEDs alle funktioniert und wir konnten mit der Verkabelung weitermachen. Dafür haben wir zwei "Aufsteck-Platinen" für den Arduino gelötet, an die wir dann die Kabel anlöten, damit wir auch nachträglich noch änderungen machen können und wir den Arduino nicht mit der Hitze beschädigen. Nach Fertigstellung könnte so der Arduino einfach aufgesteckt werden.
 
 ### 06.11.18 - Unterricht
 Wir haben nun weiter und zielgerichteter an unserer Dokumentation gearbeitet. Dabei haben wir ein Inhaltsverzeichnis und eine Komponentenliste mit jeweiliger Verlinkung erstellt und weiter am Menüpunkt Hardware gearbeitet und einen Text zum MSGEQ7 geschrieben und wie dieser funktioniert, verbunden mit dem zugehörigen Strobe-Diagramm. 
