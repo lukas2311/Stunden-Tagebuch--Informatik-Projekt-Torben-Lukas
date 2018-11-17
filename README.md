@@ -67,4 +67,4 @@ Heute haben wir uns mit der Konzeption eines Gehäuses für den Audio Spectrum A
 Diesmal haben wir weiter an unserer Dokumentation gearbeitet. Wir haben den Bereich Software erweitert um den Code für den Reset am MSGEQ7 und die jeweiligen Grafiken Codeschnipsel eingefügt. 
 
 ### 17.11.18 - Zuhause
-Widerstände fertig, Verkabeln, Dokumentation
+Heute haben wir die benötigten Widerstände auf der Platine festgelötet und alles verkabelt. Danach haben wir alle Bauteile im Gehäuse befestigt. Außerdem haben wir die Dokumentation weiter bearbeitet.
