@@ -65,3 +65,6 @@ Heute haben wir uns mit der Konzeption eines Gehäuses für den Audio Spectrum A
 
 ### 13.11.18 - Unterricht
 Diesmal haben wir weiter an unserer Dokumentation gearbeitet. Wir haben den Bereich Software erweitert um den Code für den Reset am MSGEQ7 und die jeweiligen Grafiken Codeschnipsel eingefügt. 
+
+### 17.11.18 - Zuhause
+Widerstände fertig, Verkabeln, Dokumentation
