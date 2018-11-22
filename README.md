@@ -61,6 +61,8 @@ Nun haben wir mit der Aufteilung der LEDs und Transistoren befasst und damit beg
 
 Nach einigen Korrekturen und zwei neu-eingelöteten LEDs haben die LEDs alle funktioniert und wir konnten mit der Verkabelung weitermachen. Dafür haben wir zwei "Aufsteck-Platinen" für den Arduino gelötet, an die wir dann die Kabel anlöten, damit wir auch nachträglich noch änderungen machen können und wir den Arduino nicht mit der Hitze beschädigen. Nach Fertigstellung könnte so der Arduino einfach aufgesteckt werden.
 
+### 29.10.18 - Unterricht
+### 28.10.18 - Unterricht
 ### 06.11.18 - Unterricht
 Wir haben nun weiter und zielgerichteter an unserer Dokumentation gearbeitet. Dabei haben wir ein Inhaltsverzeichnis und eine Komponentenliste mit jeweiliger Verlinkung erstellt und weiter am Menüpunkt Hardware gearbeitet und einen Text zum MSGEQ7 geschrieben und wie dieser funktioniert, verbunden mit dem zugehörigen Strobe-Diagramm. 
 
