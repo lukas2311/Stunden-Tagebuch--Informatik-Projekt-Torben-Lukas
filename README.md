@@ -12,18 +12,18 @@
 <li><a href="#seventeennine">17.09.18</a></li>
 <li><a href="#eightteennine">18.09.18</a></li>
 <li><a href="#fifteenten">15.10.18</a></li>
-<li><a href="#eightteenten">18.10.18
-<li><a href="#twotwoten">22.10.18
-<li><a href="#twothreeten">23.10.18
-<li><a href="#twoseventen">27.10.18
-<li><a href="#twonineten">29.10.18
-<li><a href="threeten">30.10.18
-<li><a href="#sixeleven">06.11.18
-<li><a href="#twelveeleven">12.11/li
-<li><a href="#onethreeoneone">13.11.18
-<li><a href="#onesevenoneone">17.11.18
-<li><a href="#twooneone">20.11.18
-<li><a href="#abgabe">Abgabe
+<li><a href="#eightteenten">18.10.18</a></li>
+<li><a href="#twotwoten">22.10.18</a></li>
+<li><a href="#twothreeten">23.10.18</a></li>
+<li><a href="#twoseventen">27.10.18</a></li>
+<li><a href="#twonineten">29.10.18</a></li>
+<li><a href="threeten">30.10.18</a></li>
+<li><a href="#sixeleven">06.11.18</a></li>
+<li><a href="#twelveeleven">12.11/li</a></li>
+<li><a href="#onethreeoneone">13.11.18</a></li>
+<li><a href="#onesevenoneone">17.11.18</a></li>
+<li><a href="#twooneone">20.11.18</a></li>
+<li><a href="#abgabe">Abgabe</a></li>
 <br>
 
 <h3 id="twooneeight">21.08.18 - Unterricht</h3>
