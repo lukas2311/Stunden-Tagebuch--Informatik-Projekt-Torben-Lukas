@@ -1,34 +1,60 @@
 # Stunden-Tagebuch -- Informatik-Projekt-Torben-Lukas 
+## Inhaltsverzeichnis
+<br>
+<li><a href="#twooneeight">21.08.18</a></li>
+<li><a href="#twoseveneight">27.08.18</a></li>
+<li><a href="#twoeighteight">28.08.18</a></li>
+<li><a href="#threenine">03.09.18</a></li>
+<li><a href="#fournine">04.09.18</a></li>
+<li><a href="#tennine">10.09.18</a></li>
+<li><a href="#elevennine">11.09.18</a></li>
+<li><a href="#sixteennine">16.09.18</a></li>
+<li><a href="#seventeennine">17.09.18</a></li>
+<li><a href="">18.09.18</a></li>
+<li><a href="">15.10.18</a></li>
+<li><a href="">18.10.18
+<li><a href="">22.10.18
+<li><a href="">23.10.18
+<li><a href="">27.10.18
+<li><a href="">29.10.18
+<li><a href="">30.10.18
+<li><a href="">06.11.18
+<li><a href="">12.11/li
+<li><a href="">13.11.18
+<li><a href="">17.11.18
+<li><a href="">20.11.18
+<li><a href="">Abgabe
+<br>
 
-### 21.08.18 - Unterricht
+<h3 id="twooneeight">21.08.18 - Unterricht</h3>
 An diesem Tag bekamen wir von Herrn Buhl eine Einführung in das Fach Informatik bekommen und bekamen erklärt, wie wir uns in verschiedene Projekte auf Github einlesen und am besten einen eigenen Entwurf anfertigen können.
 <br><br>
 Zudem wurden uns einige Beispielprojekte, wie ein Quadrocopter, ein Arduino Snake-Spiel oder ein Mobile-Game, programmiert mit Greenfoot, gezeigt.
 
-### 27.08.18 - Unterricht
+<h3 id="twoseveneight">27.08.18 - Unterricht</h3>
 Jetzt begann die Ideenfindung und Recherche zur Umsetzbarkeit des Projektes. Nachdem wir uns auf ein Projekt geeinigt hatten, fingen wir mit der Recherche an: Zunächst benötigten wir einmal ein Verständnis davon, wie digitale Audio-Signale funktionieren und wie diese aufgebaut sind. Zudem haben wir uns ähnliche Projekte angeschaut, um einen weiteren Plan sowie weitere Ideen für unser Projekt zu finden.
 <br><br>
 Ausserdem haben wir uns mit verschiedenen Hauptplatinen für unser Projekt beschäftigt. Nach Recherche und der Auseinandersetzung mit dem Raspberry Pi, dem Arduino Uno, dem Arduino Mega, dem Texas Instruments MSP430 Launchpad, aber auch unbekannteren Alternativen wie dem Teensy und dem BeagleBone haben wir uns schlussendlich für den Arduino Mega entschieden, einerseits aufgrund der großen Anzahl an Pins, und andererseits aufgrund der in der IDE verwendeten Sprache C++, welche für uns eine deutlich stimmigere Synthax aufwies, als z.B. Python. Zudem hat uns auch die große Community hinter Arduino und dem damit verbundenen Support überzeugt. 
 
-### 28.08.18 - Unterricht
+<h3 id="twoeighteight">28.08.18 - Unterricht</h3>
 Heute haben wir uns dann mit der näheren Funktionsweise des Arduino Mega beschäftigt. Vor allem vor dem Hintergrund der anschließend verwendeten Bauteile. Dabei haben wir zudem versucht, eine mögliche Umsetzung der Visualisierung aller Frequenzen zu erarbeiten. Wir haben uns dann für LEDs in Verbindung mit Transistoren entschieden, was uns dazu brachte, uns näher mit den verschiedenen Arten von Transistoren, wie dem NPN, dem PNP und dem Mosfet und deren unterschiedlichen Dotierungen sowie den jeweiligen Anwendungsbereichen zu beschäftigen.
 
-### 03.09
+<h3 id="threenine">03.09</h3>
 
-### 04.09
+<h3 id="fournine">04.09</h3>
 
-### 10.09.18 - Unterricht
+<h3 id="tennine">10.09.18 - Unterricht</h3>
 Nun haben wir nähere Planung begonnen. Unser Grundkonzept blieb allerdings unverändert. Wir begannen damit ein Grundkonzept für einen Schaltplan auf draw.io zu zeichnen. 
 <br>
 <p align="center"><img src="https://user-images.githubusercontent.com/42578917/47315087-d769fb00-d643-11e8-9edb-c32462ccdcd3.png" width="400px"></p>
 
-### 11.09.18 - Unterricht
+<h3 id="elevennine">11.09.18 - Unterricht</h3>
 Heute haben wir unser Konzept für die Hardware beendet und begonnen, uns mit der endgültigen Programmierumgebung, der Arduino IDE auseinanderzusetzen und haben uns damit beschäftigt, wie man dort einzelne Pins ansteuert, sowie Inputs an analogen Pins in der IDE ausliest. 
 
-### 16.09.18 - Zuhause
+<h3 id="sixteennine">16.09.18 - Zuhause</h3>
 Jetzt haben wir recherchiert, was für verschiedene Produkte es gibt, für die Teile die wir brauchen. Auf Amazon und Conrad haben wir dann Teile entdeckt und uns über die Hintergründe der Funktionsweise dieser belesen.
 
-### 17.09.18 - Unterricht
+<h3 id="seventeennine">17.09.18 - Unterricht</h3>
 Heute haben wir damit begonnen, die endgültigen Teile im Internet rauszusuchen und zu bestellen. Dazu gehörten der Arduino, der MSGEQ7 einige Widerstände, LEDs und Steckbretter mit Jumper-Kabeln. Die Entscheidung dafür beruhte auf der Recherche vom Vortag. Gegen Ende der Stunde haben wir zudem unser weiteres Vorgehen besprochen: wann die Bauteile ankommen, wann wir uns wieder treffen, und wann wir welche Teile fertigstellen.
 
 ### 18.09.18 - Unterricht
@@ -62,7 +88,7 @@ Nun haben wir mit der Aufteilung der LEDs und Transistoren befasst und damit beg
 Nach einigen Korrekturen und zwei neu-eingelöteten LEDs haben die LEDs alle funktioniert und wir konnten mit der Verkabelung weitermachen. Dafür haben wir zwei "Aufsteck-Platinen" für den Arduino gelötet, an die wir dann die Kabel anlöten, damit wir auch nachträglich noch änderungen machen können und wir den Arduino nicht mit der Hitze beschädigen. Nach Fertigstellung könnte so der Arduino einfach aufgesteckt werden.
 
 ### 29.10.18 - Unterricht
-### 28.10.18 - Unterricht
+### 30.10.18 - Unterricht
 ### 06.11.18 - Unterricht
 Wir haben nun weiter und zielgerichteter an unserer Dokumentation gearbeitet. Dabei haben wir ein Inhaltsverzeichnis und eine Komponentenliste mit jeweiliger Verlinkung erstellt und weiter am Menüpunkt Hardware gearbeitet und einen Text zum MSGEQ7 geschrieben und wie dieser funktioniert, verbunden mit dem zugehörigen Strobe-Diagramm. 
 
@@ -74,3 +100,8 @@ Diesmal haben wir weiter an unserer Dokumentation gearbeitet. Wir haben den Bere
 
 ### 17.11.18 - Zuhause
 Heute haben wir die benötigten Widerstände auf der Platine festgelötet und alles verkabelt. Danach haben wir alle Bauteile im Gehäuse befestigt. Außerdem haben wir die Dokumentation weiter bearbeitet.
+### 20.11.18 - Unterricht
+Dies war der letzte Tag, an dem wir im Unterricht an unseren Projekten arbeiten konnten. Da wir unser Projekt so gut wie fertig hatten, haben wir uns vor allem mit dem Testen und mit minimalen Veränderungen am Timing der LEDs zur Musik beschäftigt. Das Timing, was in den IF-Schleifen entscheidet, bei welchem vom MSGEQ7 zurückgegebenen Wert, eine jeweilige LED angeschaltet wird.
+# Abgabe
+
+Am 23.11. war dann 
