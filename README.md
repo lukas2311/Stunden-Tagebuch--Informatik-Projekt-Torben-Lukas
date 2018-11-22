@@ -1,6 +1,5 @@
 # Stunden-Tagebuch -- Informatik-Projekt-Torben-Lukas 
 ## Inhaltsverzeichnis
-<br>
 <li><a href="#twooneeight">21.08.18</a></li>
 <li><a href="#twoseveneight">27.08.18</a></li>
 <li><a href="#twoeighteight">28.08.18</a></li>
