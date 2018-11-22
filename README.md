@@ -44,7 +44,7 @@ versucht für verschiedene Songs die Werte über den Seriellen Monitor der Ardui
 zuerst vorhandene Fehler zu entdecken und zu beheben.
 
 Nachdem wir ein bisschen an dem Timing herumgeschraubt haben, mit dem der Analoge Input ausgelesen wird, haben wir eine Reihe LEDs mit Transistoren aufgebaut und für die 6. Frequenz angeschlossen, und eine IF-Schleife geschrieben, mit der diese geschaltet werden - als Prototyp. Nach ein paar Korrekturen am Timing funktionierte diese und wir haben einen Durchlauf mit allen 
-
+### 18.10.18 - Unterricht
 ### 22.10.18 - Unterricht
 Nun haben wir versucht, mit den gewonnenen Daten etwas anzufangen: Wir haben mehrere If-Schleifen geschrieben, welche dann später
 abhängig von den Werten aus dem Seriellen Monitor die einzelnen Transistoren, und damit die einzelnen LEDs schalten. Da der MSGEQ7 nur "Zahlen" als Werte für die stärke der einzelnen Frequenzen ausgibt, können wir an diese Werte auch eine Bedingung knüpfen. Nun haben wir anhand der Werte geschachtelte IF-Schleifen geschrieben, welche jeweils bis zu einem Bestimmten Wert durchlaufen.
