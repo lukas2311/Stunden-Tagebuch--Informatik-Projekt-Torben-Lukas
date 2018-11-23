@@ -44,10 +44,10 @@ Jetzt begann die Ideenfindung und Recherche zur Umsetzbarkeit des Projektes. Nac
 <h3 id="twoeighteight">28.08.18 - Unterricht</h3>
 Am darauf folgenden Tag haben wir uns mit verschiedenen Hauptplatinen für unser Projekt beschäftigt. Nach Recherche und der Auseinandersetzung mit dem Raspberry Pi, dem Arduino Uno, dem Arduino Mega, dem Texas Instruments MSP430 Launchpad, aber auch unbekannteren Alternativen wie dem Teensy und dem BeagleBone haben wir uns schlussendlich für den Arduino Mega entschieden, einerseits aufgrund der großen Anzahl an Pins, und andererseits aufgrund der in der IDE verwendeten Sprache C++, welche für uns eine deutlich stimmigere Synthax aufwies, als z.B. Python. Zudem hat uns auch die große Community hinter Arduino und dem damit verbundenen Support überzeugt. 
 
-<h3 id="threenine">03.09</h3>
+<h3 id="threenine">03.09 - Unterricht </h3>
 Heute haben wir uns dann mit der näheren Funktionsweise des Arduino Mega beschäftigt. Vor allem vor dem Hintergrund der anschließend verwendeten Bauteile. Dabei haben wir zudem versucht, eine mögliche Umsetzung der Visualisierung aller Frequenzen zu erarbeiten. Wir haben uns dann für LEDs in Verbindung mit Transistoren entschieden.
 
-<h3 id="fournine">04.09</h3>
+<h3 id="fournine">04.09 - Unterricht</h3>
  was uns dazu brachte, uns näher mit den verschiedenen Arten von Transistoren, wie dem NPN, dem PNP und dem Mosfet und deren unterschiedlichen Dotierungen sowie den jeweiligen Anwendungsbereichen zu beschäftigen.
 
 <h3 id="tennine">10.09.18 - Unterricht</h3>
