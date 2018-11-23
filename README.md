@@ -66,13 +66,13 @@ Jetzt haben wir recherchiert, was für verschiedene Produkte es gibt, für die T
 Heute haben wir damit begonnen, die endgültigen Teile im Internet rauszusuchen und zu bestellen. Dazu gehörten der Arduino, der MSGEQ7, einige Widerstände, LEDs und Steckbretter mit Jumper-Kabeln. Die Entscheidung dafür beruhte auf der Recherche vom Vortag. Gegen Ende der Stunde haben wir zudem unser weiteres Vorgehen besprochen: wann die Bauteile ankommen, wann wir uns wieder treffen, und wann wir welche Teile fertigstellen.
 
 <h3 id="eightteennine">18.09.18 - Unterricht</h3>
-Heute haben wir uns ausgiebiger mit der Verkabelung des MSGEQ7 beschäftigt, wie sie im Datenblatt angegeben ist und unser Weiteres vorgehen besprochen. Zudem haben wir noch weitere benötigte Teile wie 4 weitere Kondensatoren und IC-Fassungen für den MSGEQ7 bestellt. 
+Heute haben wir uns ausgiebiger mit der Verkabelung des MSGEQ7 beschäftigt, wie sie im Datenblatt angegeben ist und unser weiteres Vorgehen besprochen. Zudem haben wir noch weitere benötigte Teile wie 4 weitere Kondensatoren und IC-Fassungen für den MSGEQ7 bestellt. 
 Zudem haben wir, nachdem wir die Verkabelung verstanden haben, den Schaltplan beendet: 
 <p align="center"><img src="https://user-images.githubusercontent.com/42578917/48625398-67833200-e9af-11e8-848c-5e2630a5e2c4.png" width="400px"></p>
 
 <h3 id="fifteenten">15.10.18 - Zuhause</h3>
-Heute haben wir den MSGEQ7 zum ersten mal mit allen Komponenten angeschlossen und mit dem zuvor geschreibenen Code getestetet und 
-versucht für verschiedene Songs die Werte über den Seriellen Monitor der Arduino IDE auszulesen. Dadurch war es uns möglich,
+Heute haben wir den MSGEQ7 zum ersten Mal mit allen Komponenten angeschlossen und mit dem zuvor geschriebenen Code getestet und 
+versucht für verschiedene Songs die Werte über den Seriellen Monitor der Arduino IDE auszulesen. Dadurch war es uns möglich
 zuerst vorhandene Fehler zu entdecken und zu beheben.
 
 <h3 id="eightteenten">18.10.18 - Unterricht</h3>
