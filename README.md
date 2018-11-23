@@ -95,9 +95,10 @@ Nun haben wir mit der Aufteilung der LEDs und Transistoren befasst und damit beg
 Nach einigen Korrekturen und zwei neu-eingelöteten LEDs haben die LEDs alle funktioniert und wir konnten mit der Verkabelung weitermachen. Dafür haben wir zwei "Aufsteck-Platinen" für den Arduino gelötet, an die wir dann die Kabel anlöten, damit wir auch nachträglich noch änderungen machen können und wir den Arduino nicht mit der Hitze beschädigen. Nach Fertigstellung könnte so der Arduino einfach aufgesteckt werden.
 
 <h3 id="twonineten">29.10.18 - Unterricht</h3>
-Heute haben wir unsere Dokumentation weitergeführt. Zum einen den Hardware-, aber vorallem auch den Softwareteil haben wir dabei weiter fortgeführt. Außerdem haben wir Ergänzungen am Stundenprotokoll/Tagebuch vorgenommen.
+Heute haben wir unsere Projektseite weitergeführt. Zum einen den Hardware-, aber vorallem auch den Softwareteil haben wir dabei weiter fortgeführt. Außerdem haben wir Ergänzungen am Stundenprotokoll vorgenommen.
 
 <h3 id="threeten">30.10.18 - Unterricht</h3>
+Nun haben wir uns um den Aufbau und das Aussehen unserer Dokumentation gekümmert. Dazu haben wir Überschriften formatiert, Bilder eingebunden und recherchiert wie wir ein Inhaltsverzeichnis erstellen können, welches auf daie jeweilige Überschrift verweist. Außerdem haben wir herausgefunden, wie es möglich ist, Videos in GitHub-Repositories einzubauen.
 
 <h3 id="sixeleven">06.11.18 - Unterricht</h3>
 Wir haben nun weiter und zielgerichteter an unserer Dokumentation gearbeitet. Dabei haben wir ein Inhaltsverzeichnis und eine Komponentenliste mit jeweiliger Verlinkung erstellt und weiter am Menüpunkt Hardware gearbeitet und einen Text zum MSGEQ7 geschrieben und wie dieser funktioniert, verbunden mit dem zugehörigen Strobe-Diagramm. 
