@@ -76,7 +76,7 @@ versucht für verschiedene Songs die Werte über den Seriellen Monitor der Ardui
 zuerst vorhandene Fehler zu entdecken und zu beheben.
 
 <h3 id="eightteenten">18.10.18 - Unterricht</h3>
-Heute haben wir, Nachdem wir ein bisschen an dem Timing herumgeschraubt haben, mit dem der Analoge Input ausgelesen wird, eine Reihe LEDs mit Transistoren aufgebaut und für die 6. Frequenz angeschlossen, und eine IF-Schleife geschrieben, mit der diese geschaltet werden - als Prototyp. Nach ein paar Korrekturen am Timing funktionierte diese und wir haben einen Durchlauf mit allen 
+Heute haben wir, nachdem wir ein bisschen an dem Timing herumgeschraubt haben, mit dem der Analoge Input ausgelesen wird, eine Reihe LEDs mit Transistoren am Steckbrett aufgebaut und für die 6. Frequenz angeschlossen und eine IF-Schleife geschrieben, mit der diese geschaltet werden - als Prototyp. Nach ein paar Korrekturen am Timing funktionierte diese und wir haben einen Durchlauf mit allen Frequenzen gemacht.
 
 <h3 id="twotwoten">22.10.18 - Unterricht</h3>
 Nun haben wir versucht, mit den gewonnenen Daten etwas anzufangen: Wir haben mehrere If-Schleifen geschrieben, welche dann später
