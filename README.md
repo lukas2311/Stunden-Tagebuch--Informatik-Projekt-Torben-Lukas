@@ -79,13 +79,13 @@ zuerst vorhandene Fehler zu entdecken und zu beheben.
 Heute haben wir, nachdem wir ein bisschen an dem Timing herumgeschraubt haben, mit dem der Analoge Input ausgelesen wird, eine Reihe LEDs mit Transistoren am Steckbrett aufgebaut und für die 6. Frequenz angeschlossen und eine IF-Schleife geschrieben, mit der diese geschaltet werden - als Prototyp. Nach ein paar Korrekturen am Timing funktionierte diese und wir haben einen Durchlauf mit allen Frequenzen gemacht.
 
 <h3 id="twotwoten">22.10.18 - Unterricht</h3>
-Nun haben wir versucht, mit den gewonnenen Daten etwas anzufangen: Wir haben mehrere If-Schleifen geschrieben, welche dann später
-abhängig von den Werten aus dem Seriellen Monitor die einzelnen Transistoren, und damit die einzelnen LEDs schalten. Da der MSGEQ7 nur "Zahlen" als Werte für die stärke der einzelnen Frequenzen ausgibt, können wir an diese Werte auch eine Bedingung knüpfen. Nun haben wir anhand der Werte geschachtelte IF-Schleifen geschrieben, welche jeweils bis zu einem Bestimmten Wert durchlaufen.
+Nun haben wir versucht mit den gewonnenen Daten etwas anzufangen: Wir haben mehrere If-Schleifen geschrieben, welche dann später
+abhängig von den Werten aus dem Seriellen Monitor die einzelnen Transistoren und damit die einzelnen LEDs schalten. Da der MSGEQ7 nur "Zahlen" als Werte für die Stärke der einzelnen Frequenzen ausgibt, können wir an diese Werte auch eine Bedingung knüpfen. Nun haben wir anhand der Werte geschachtelte IF-Schleifen geschrieben, welche jeweils bis zu einem bestimmten Wert durchlaufen.
 <br>
 Desweiteren haben wir vor dem Hintergrund des Schaltplans des Arduino Mega eine Pinaufteilung für die verschiedenen LEDs erarbeitet. Dafür haben wir zunächst alle als digitale Ausgänge verfügbare Pins rausgesucht und auf in 7 Reihen unterteilt, für die verschiedenen Frequenzen. Dies haben wir getan, um für LEDs, welche die gleiche Frequenz anzeigen, auch nebeneinanderliegende Pins zu wählen, damit die Schaltung etwas übersichtlicher und nachvollziehbarer wird.
 
 <h3 id="twothreeten">23.10.18 - Unterricht</h3>
-An diesem Tag haben wir mit dem endgültigen Code begonnen. Also haben wir zunächst in anbindung an die letzte Stunde eine Menge Variablen geschrieben, in die wir die in der letzten Stunde erarbeitete Pinaufteilung eingetragen haben. So hat jeder Transistor, also jede LED einen Pin auf dem Arduino bekommen. Um diese Wiederzuerkennen, haben wir ein Benennungssystem entwickelt. Zudem haben wir die IF-Schleifen um die jeweiligen zugehörigen Pins ergänzt und die jeweiligen Schaltungen hinzugefügt.
+An diesem Tag haben wir mit dem endgültigen Code begonnen. Zudem haben wir die IF-Schleifen um die jeweiligen zugehörigen Pins ergänzt und die jeweiligen Schaltungen hinzugefügt.
 
 <h3 id="twoseventen">27.10.18 - Zuhause</h3>
 Nun haben wir mit der Aufteilung der LEDs und Transistoren befasst und damit begonnen diese auf die Platinen zu löten. Dabei haben wir sowohl Widerstände, Transistoren, LEDs und Kabel festgelötet und erste Tests an der fertigen Platine durchgeführt um zu prüfen, ob alle LEDs und Transistoren ordnungsgemäß funktionieren und zu schauen, ob auch alle Transistoren und LEDs richtig gepolt verlötet wurden.
