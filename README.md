@@ -35,7 +35,7 @@ In diesem Repository haben wir alle Inhalte der Unterrichtsstunden und privaten 
 
 ## Projekttage
 <h3 id="twooneeight">21.08.18 - Unterricht</h3>
-An diesem Tag bekamen wir von Herrn Buhl eine Einführung in das Fach Informatik bekommen und bekamen erklärt, wie wir uns in verschiedene Projekte auf Github einlesen und am besten einen eigenen Entwurf anfertigen können.
+An diesem Tag haben wir von Herrn Buhl eine Einführung in das Fach Informatik bekommen und bekamen erklärt, wie wir uns in verschiedene Projekte auf Github einlesen und am besten einen eigenen Entwurf anfertigen können.
 <br>
 Zudem wurden uns einige Beispielprojekte, wie ein Quadrocopter, ein Arduino Snake-Spiel oder ein Mobile-Game, programmiert mit Greenfoot, gezeigt.
 
