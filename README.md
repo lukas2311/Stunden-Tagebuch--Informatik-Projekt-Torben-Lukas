@@ -89,7 +89,7 @@ Nun haben wir mit der Aufteilung der LEDs und Transistoren befasst und damit beg
 Nach einigen Korrekturen und zwei neu-eingelöteten LEDs haben die LEDs alle funktioniert und wir konnten mit der Verkabelung weitermachen. Dafür haben wir zwei "Aufsteck-Platinen" für den Arduino gelötet, an die wir dann die Kabel anlöten, damit wir auch nachträglich noch änderungen machen können und wir den Arduino nicht mit der Hitze beschädigen. Nach Fertigstellung könnte so der Arduino einfach aufgesteckt werden.
 
 <h3 id="twonineten">29.10.18 - Unterricht</h3>
-Heute haben wir unsere Dokumentation weitergeführt. Sowohl den Hardware-, als auch den Softwareteil haben wir dabei weiter fortgeführt.
+Heute haben wir unsere Dokumentation weitergeführt. Zum einen den Hardware-, aber vorallem auch den Softwareteil haben wir dabei weiter fortgeführt. Außerdem haben wir Ergänzungen am Stundenprotokoll/Tagebuch vorgenommen.
 
 <h3 id="threeten">30.10.18 - Unterricht</h3>
 
@@ -104,8 +104,9 @@ Diesmal haben wir weiter an unserer Dokumentation gearbeitet. Wir haben den Bere
 
 <h3 id="onesevenoneone">17.11.18 - Zuhause</h3>
 Heute haben wir die benötigten Widerstände auf der Platine festgelötet und alles verkabelt. Danach haben wir alle Bauteile im Gehäuse befestigt. Außerdem haben wir die Dokumentation weiter bearbeitet.
+
 <h3 id="twooneone">20.11.18 - Unterricht</h3>
 Dies war der letzte Tag, an dem wir im Unterricht an unseren Projekten arbeiten konnten. Da wir unser Projekt so gut wie fertig hatten, haben wir uns vor allem mit dem Testen und mit minimalen Veränderungen am Timing der LEDs zur Musik beschäftigt. Das Timing, was in den IF-Schleifen entscheidet, bei welchem vom MSGEQ7 zurückgegebenen Wert, eine jeweilige LED angeschaltet wird.
-<h3 id="abgabe">Abgabe</h3>
 
-Am 23.11. war dann 
+<h3 id="abgabe">23.11 - Abgabe</h3>
+Heute haben wir Fotos und Videos vom fertigen Produkt gemacht und diese in unsere Repositories eingebunden. Außerdem haben wir letzte Ergänzungen und Korrekturen an der Projektseite und dem Stundenprotokoll vorgenommen.
