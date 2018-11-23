@@ -83,15 +83,16 @@ Desweiteren haben wir vor dem Hintergrund des Schaltplans des Arduino Mega eine 
 <h3 id="twothreeten">23.10.18 - Unterricht</h3>
 An diesem Tag haben wir mit dem endgültigen Code begonnen. Also haben wir zunächst in anbindung an die letzte Stunde eine Menge Variablen geschrieben, in die wir die in der letzten Stunde erarbeitete Pinaufteilung eingetragen haben. So hat jeder Transistor, also jede LED einen Pin auf dem Arduino bekommen. Um diese Wiederzuerkennen, haben wir ein Benennungssystem entwickelt. Zudem haben wir die IF-Schleifen um die jeweiligen zugehörigen Pins ergänzt und die jeweiligen Schaltungen hinzugefügt.
 
-Außerdem haben wir unsere Dokumentation weitergeführt. Sowohl den Hardware-, als auch den Softwareteil haben wir dabei weiter fortgeführt.
-
 <h3 id="twoseventen">27.10.18 - Zuhause</h3>
 Nun haben wir mit der Aufteilung der LEDs und Transistoren befasst und damit begonnen diese auf die Platinen zu löten. Dabei haben wir sowohl Widerstände, Transistoren, LEDs und Kabel festgelötet und erste Tests an der fertigen Platine durchgeführt um zu prüfen, ob alle LEDs und Transistoren ordnungsgemäß funktionieren und zu schauen, ob auch alle Transistoren und LEDs richtig gepolt verlötet wurden.
 
 Nach einigen Korrekturen und zwei neu-eingelöteten LEDs haben die LEDs alle funktioniert und wir konnten mit der Verkabelung weitermachen. Dafür haben wir zwei "Aufsteck-Platinen" für den Arduino gelötet, an die wir dann die Kabel anlöten, damit wir auch nachträglich noch änderungen machen können und wir den Arduino nicht mit der Hitze beschädigen. Nach Fertigstellung könnte so der Arduino einfach aufgesteckt werden.
 
 <h3 id="twonineten">29.10.18 - Unterricht</h3>
+Heute haben wir unsere Dokumentation weitergeführt. Sowohl den Hardware-, als auch den Softwareteil haben wir dabei weiter fortgeführt.
+
 <h3 id="threeten">30.10.18 - Unterricht</h3>
+
 <h3 id="sixeleven">06.11.18 - Unterricht</h3>
 Wir haben nun weiter und zielgerichteter an unserer Dokumentation gearbeitet. Dabei haben wir ein Inhaltsverzeichnis und eine Komponentenliste mit jeweiliger Verlinkung erstellt und weiter am Menüpunkt Hardware gearbeitet und einen Text zum MSGEQ7 geschrieben und wie dieser funktioniert, verbunden mit dem zugehörigen Strobe-Diagramm. 
 
