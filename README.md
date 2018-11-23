@@ -49,7 +49,7 @@ Am darauf folgenden Tag haben wir uns mit verschiedenen Hauptplatinen für unser
 Heute haben wir uns dann mit der näheren Funktionsweise des Arduino Mega beschäftigt. Vor allem vor dem Hintergrund der anschließend verwendeten Bauteile. Dabei haben wir zudem versucht, eine mögliche Umsetzung der Visualisierung aller Frequenzen zu erarbeiten. Wir haben uns dann für LEDs in Verbindung mit Transistoren entschieden.
 
 <h3 id="fournine">04.09 - Unterricht</h3>
- was uns dazu brachte, uns näher mit den verschiedenen Arten von Transistoren, wie dem NPN, dem PNP und dem Mosfet und deren unterschiedlichen Dotierungen sowie den jeweiligen Anwendungsbereichen zu beschäftigen.
+An diesem Tag haben wir uns näher mit den verschiedenen Arten von Transistoren und deren unterschiedlichen Dotierungen, sowie den jeweiligen Anwendungsbereichen beschäftigt. Letztendlich haben wir uns für NPN-Transistoren entschieden.
 
 <h3 id="tennine">10.09.18 - Unterricht</h3>
 Nun haben wir nähere Planung begonnen. Unser Grundkonzept blieb allerdings unverändert. Wir begannen damit ein Grundkonzept für einen Schaltplan auf draw.io zu zeichnen. 
