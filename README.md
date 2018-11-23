@@ -88,30 +88,30 @@ Desweiteren haben wir vor dem Hintergrund des Schaltplans des Arduino Mega eine 
 An diesem Tag haben wir mit dem endgültigen Code begonnen. Zudem haben wir die IF-Schleifen um die jeweiligen zugehörigen Pins ergänzt und die jeweiligen Schaltungen hinzugefügt.
 
 <h3 id="twoseventen">27.10.18 - Zuhause</h3>
-Nun haben wir mit der Aufteilung der LEDs und Transistoren befasst und damit begonnen diese auf die Platinen zu löten. Dabei haben wir sowohl Widerstände, Transistoren, LEDs und Kabel festgelötet und erste Tests an der fertigen Platine durchgeführt um zu prüfen, ob alle LEDs und Transistoren ordnungsgemäß funktionieren und zu schauen, ob auch alle Transistoren und LEDs richtig gepolt verlötet wurden.
+Nun haben wir mit der Aufteilung der LEDs und Transistoren befasst und damit begonnen diese auf die Platinen zu löten. Dabei haben wir sowohl Widerstände, Transistoren, LEDs und Kabel festgelötet und erste Tests an der fertigen Platine durchgeführt, um zu prüfen, ob alle LEDs und Transistoren ordnungsgemäß funktionieren und zu schauen, ob auch alle Transistoren und LEDs richtig gepolt verlötet wurden.
 
-Nach einigen Korrekturen und zwei neu-eingelöteten LEDs haben die LEDs alle funktioniert und wir konnten mit der Verkabelung weitermachen. Dafür haben wir zwei "Aufsteck-Platinen" für den Arduino gelötet, an die wir dann die Kabel anlöten, damit wir auch nachträglich noch änderungen machen können und wir den Arduino nicht mit der Hitze beschädigen. Nach Fertigstellung könnte so der Arduino einfach aufgesteckt werden.
+Nach einigen Korrekturen und zwei neu-eingelöteten LEDs haben die LEDs alle funktioniert und wir konnten mit der Verkabelung weitermachen. Dafür haben wir zwei "Aufsteck-Platinen" für den Arduino gelötet, an die wir dann die Kabel anlöten, damit wir auch nachträglich noch Änderungen machen können und wir den Arduino nicht mit der Hitze beschädigen. Nach Fertigstellung könnte so der Arduino einfach aufgesteckt werden.
 
 <h3 id="twonineten">29.10.18 - Unterricht</h3>
 Heute haben wir unsere Projektseite weitergeführt. Zum einen den Hardware-, aber vorallem auch den Softwareteil haben wir dabei weiter fortgeführt. Außerdem haben wir Ergänzungen am Stundenprotokoll vorgenommen.
 
 <h3 id="threeten">30.10.18 - Unterricht</h3>
-Nun haben wir uns um den Aufbau und das Aussehen unserer Dokumentation gekümmert. Dazu haben wir Überschriften formatiert, Bilder eingebunden und recherchiert wie wir ein Inhaltsverzeichnis erstellen können, welches auf daie jeweilige Überschrift verweist. Außerdem haben wir herausgefunden, wie es möglich ist, Videos in GitHub-Repositories einzubauen.
+Nun haben wir uns um den Aufbau und das Aussehen unserer Dokumentation gekümmert. Dazu haben wir Überschriften formatiert, Bilder eingebunden und recherchiert wie wir ein Inhaltsverzeichnis erstellen können, welches auf die jeweilige Überschrift verweist. Außerdem haben wir herausgefunden, wie es möglich ist Videos in GitHub-Repositories einzubauen.
 
 <h3 id="sixeleven">06.11.18 - Unterricht</h3>
 Wir haben nun weiter und zielgerichteter an unserer Dokumentation gearbeitet. Dabei haben wir ein Inhaltsverzeichnis und eine Komponentenliste mit jeweiliger Verlinkung erstellt und weiter am Menüpunkt Hardware gearbeitet und einen Text zum MSGEQ7 geschrieben und wie dieser funktioniert, verbunden mit dem zugehörigen Strobe-Diagramm. 
 
 <h3 id="twelveeleven">12.11.18 - Unterricht</h3>
-Heute haben wir uns mit der Konzeption eines Gehäuses für den Audio Spectrum Analyser beschäftigt. Dabei haben wir geplant, wo welche Ausgänge, Knöpfe usw. hinkommen, und wie die konkreten Außenmaße, sowie der Platzbedarf für die Komponenten innerhalb des Gehäuses sein sollen.
+Heute haben wir uns mit der Konzeption eines Gehäuses für den Audio Spectrum Analyser beschäftigt. Dabei haben wir geplant, wo welche Ausgänge, Knöpfe usw. hinkommen und wie die konkreten Außenmaße, sowie der Platzbedarf für die Komponenten innerhalb des Gehäuses sein sollen.
 
 <h3 id="onethreeoneone">13.11.18 - Unterricht</h3>
-Diesmal haben wir weiter an unserer Dokumentation gearbeitet. Wir haben den Bereich Software erweitert um den Code für den Reset am MSGEQ7 und die jeweiligen Grafiken Codeschnipsel eingefügt. 
+Diesmal haben wir weiter an unserer Dokumentation gearbeitet. Wir haben den Bereich Software erweitert um den Code für den Reset am MSGEQ7 und die jeweiligen Grafiken und Codeschnipsel eingefügt. 
 
 <h3 id="onesevenoneone">17.11.18 - Zuhause</h3>
 Heute haben wir die benötigten Widerstände auf der Platine festgelötet und alles verkabelt. Danach haben wir alle Bauteile im Gehäuse befestigt. Außerdem haben wir die Dokumentation weiter bearbeitet.
 
 <h3 id="twooneone">20.11.18 - Unterricht</h3>
-Dies war der letzte Tag, an dem wir im Unterricht an unseren Projekten arbeiten konnten. Da wir unser Projekt so gut wie fertig hatten, haben wir uns vor allem mit dem Testen und mit minimalen Veränderungen am Timing der LEDs zur Musik beschäftigt. Das Timing, was in den IF-Schleifen entscheidet, bei welchem vom MSGEQ7 zurückgegebenen Wert, eine jeweilige LED angeschaltet wird.
+Dies war der letzte Tag, an dem wir im Unterricht an unseren Projekten arbeiten konnten. Da wir unser Projekt so gut wie fertig hatten, haben wir uns vor allem mit dem Testen und mit minimalen Veränderungen am Timing der LEDs zur Musik beschäftigt. Das Timing, was in den IF-Schleifen entscheidet, bei welchem vom MSGEQ7 zurückgegebenen Wert eine jeweilige LED angeschaltet wird.
 
 <h3 id="abgabe">23.11 - Abgabe</h3>
 Heute haben wir Fotos und Videos vom fertigen Produkt gemacht und diese in unsere Repositories eingebunden. Außerdem haben wir letzte Ergänzungen und Korrekturen an der Projektseite und dem Stundenprotokoll vorgenommen.
