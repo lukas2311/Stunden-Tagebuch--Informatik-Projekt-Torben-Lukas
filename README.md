@@ -26,7 +26,7 @@
 <li><a href="#abgabe">Abgabe</a></li>
 <br>
 <h3 id="vorwort">Vorwort</h3>
-In diesem Repository haben wir alle Unterrichtsstunden und private Treffen im Rahmen unseres ersten Informatikprojekts notiert.
+In diesem Repository haben wir alle Inhalte der Unterrichtsstunden und private Treffen im Rahmen unseres ersten Informatikprojekts notiert. Das Produkt des Projekts ist ein Audio Spectrum Analyser, ein Gerät, welches die Präsens und Stärke verschiedener Frequenzen in Musik, beispielsweise vom Handy, darstellt. Mehr Informationen zum Audio Spectrum Analyzer, dessen Aufbau und Funktionsweise, und zum Endprodukt gibt es in unserem Projektseiten-Repository.
 <h3 id="twooneeight">21.08.18 - Unterricht</h3>
 An diesem Tag bekamen wir von Herrn Buhl eine Einführung in das Fach Informatik bekommen und bekamen erklärt, wie wir uns in verschiedene Projekte auf Github einlesen und am besten einen eigenen Entwurf anfertigen können.
 <br><br>
