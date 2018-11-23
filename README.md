@@ -71,8 +71,9 @@ Heute haben wir den MSGEQ7 zum ersten mal mit allen Komponenten angeschlossen un
 versucht für verschiedene Songs die Werte über den Seriellen Monitor der Arduino IDE auszulesen. Dadurch war es uns möglich,
 zuerst vorhandene Fehler zu entdecken und zu beheben.
 
-Nachdem wir ein bisschen an dem Timing herumgeschraubt haben, mit dem der Analoge Input ausgelesen wird, haben wir eine Reihe LEDs mit Transistoren aufgebaut und für die 6. Frequenz angeschlossen, und eine IF-Schleife geschrieben, mit der diese geschaltet werden - als Prototyp. Nach ein paar Korrekturen am Timing funktionierte diese und wir haben einen Durchlauf mit allen 
 <h3 id="eightteenten">18.10.18 - Unterricht</h3>
+Heute haben wir, Nachdem wir ein bisschen an dem Timing herumgeschraubt haben, mit dem der Analoge Input ausgelesen wird, eine Reihe LEDs mit Transistoren aufgebaut und für die 6. Frequenz angeschlossen, und eine IF-Schleife geschrieben, mit der diese geschaltet werden - als Prototyp. Nach ein paar Korrekturen am Timing funktionierte diese und wir haben einen Durchlauf mit allen 
+
 <h3 id="twotwoten">22.10.18 - Unterricht</h3>
 Nun haben wir versucht, mit den gewonnenen Daten etwas anzufangen: Wir haben mehrere If-Schleifen geschrieben, welche dann später
 abhängig von den Werten aus dem Seriellen Monitor die einzelnen Transistoren, und damit die einzelnen LEDs schalten. Da der MSGEQ7 nur "Zahlen" als Werte für die stärke der einzelnen Frequenzen ausgibt, können wir an diese Werte auch eine Bedingung knüpfen. Nun haben wir anhand der Werte geschachtelte IF-Schleifen geschrieben, welche jeweils bis zu einem Bestimmten Wert durchlaufen.
