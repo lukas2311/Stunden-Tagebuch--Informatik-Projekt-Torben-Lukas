@@ -2,7 +2,7 @@
 <br>
 
 ## Vorwort
-In diesem Repository haben wir alle Inhalte der Unterrichtsstunden und privaten Treffen im Rahmen unseres ersten Informatikprojekts notiert. Das Produkt des Projekts ist ein Audio Spectrum Analyser, ein Gerät, welches die Präsens und Stärke verschiedener Frequenzen in Musik, beispielsweise vom Handy, darstellt. Mehr Informationen zum Audio Spectrum Analyzer, dessen Aufbau und Funktionsweise, und zum Endprodukt gibt es in unserem Projektseiten-Repository.
+In diesem Repository haben wir alle Inhalte der Unterrichtsstunden und privaten Treffen im Rahmen unseres ersten Informatikprojekts notiert. Das Produkt des Projekts ist ein Audio Spectrum Analyser, ein Gerät, welches die Präsens und Stärke verschiedener Frequenzen in Musik, beispielsweise vom Handy, darstellt. Mehr Informationen zum Audio Spectrum Analyzer, dessen Aufbau und Funktionsweise, und zum Endprodukt gibt es in unserem <a href="https://github.com/lukas2311/Audio_Spectrum_Analyser-Lukas-Torben">Projektseiten-Repository.</a>
 <br>
 <br>
 
