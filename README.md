@@ -1,6 +1,5 @@
 # Stundenprotokoll - Informatikprojekt: Audio Spectrum Analyzer (Lukas u. Torben)
 <br>
-<br>
 
 ## Vorwort
 In diesem Repository haben wir alle Inhalte der Unterrichtsstunden und privaten Treffen im Rahmen unseres ersten Informatikprojekts notiert. Das Produkt des Projekts ist ein Audio Spectrum Analyser, ein Gerät, welches die Präsens und Stärke verschiedener Frequenzen in Musik, beispielsweise vom Handy, darstellt. Mehr Informationen zum Audio Spectrum Analyzer, dessen Aufbau und Funktionsweise, und zum Endprodukt gibt es in unserem Projektseiten-Repository.
@@ -31,7 +30,6 @@ In diesem Repository haben wir alle Inhalte der Unterrichtsstunden und privaten 
 <li><a href="#onesevenoneone">17.11.18</a></li>
 <li><a href="#twooneone">20.11.18</a></li>
 <li><a href="#abgabe">23.11.18</a></li>
-<br>
 <br>
 
 ## Projekttage
